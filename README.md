@@ -2,10 +2,15 @@
 
 I'm Mekan Baymyradov. I am from Turkmenistan 🇹🇲.
 
-- 🌱 I’m currently learning Data Structures and Algorithms. Here is my **[LeetCode link](https://leetcode.com/u/mekanbaymyradov/)**.
+- 🌱 I’m currently learning Data Structures and Algorithms. Find me on **[LeetCode](https://leetcode.com/u/mekanbaymyradov/)**.
 - 📖 I'm currently reading **[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)** by Robert C. Martin (Uncle Bob).
 - ⚡ I aim to improve my fundamentals and collaborate on Open Source projects.
 - 📫 How to reach me: **[Telegram](https://t.me/mekanbaymyradov)** | **[LinkedIn](https://linkedin.com/in/mekanbaymyradov)**
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mekanbaymyradov&label=Profile+Views&color=blueviolet&style=flat-square" />
+</p>
 
 <!--
 **mekanbaymyradov/mekanbaymyradov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
