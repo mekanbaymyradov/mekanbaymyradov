@@ -7,11 +7,6 @@ I'm Mekan Baymyradov. I am from Turkmenistan 🇹🇲.
 - ⚡ I aim to improve my fundamentals and collaborate on Open Source projects.
 - 📫 How to reach me: **[Telegram](https://t.me/mekanbaymyradov)** | **[LinkedIn](https://linkedin.com/in/mekanbaymyradov)**
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mekanbaymyradov&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
-
 <!--
 **mekanbaymyradov/mekanbaymyradov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
