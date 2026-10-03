@@ -2,7 +2,7 @@
 
 I'm Mekan Baymyradov. I am from Turkmenistan 🇹🇲.
 
-- 🔭 I’m currently working on **[AI-Hub](https://github.com/mekanbaymyradov/AI-Hub)** - a production-grade, multi-provider LLM chat API.
+- 🔭 I’m currently working on **[AI-Hub](https://github.com/mekanbaymyradov/AI-Hub)** - production-grade, multi-provider LLM chat API.
 - ⚡ I aim to improve my fundamentals and collaborate on Open Source projects.
 - 📫 How to reach me: **[Telegram](https://t.me/mekanbaymyradov)** | **[LinkedIn](https://linkedin.com/in/mekanbaymyradov)**
 
