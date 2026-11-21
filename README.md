@@ -1,15 +1,13 @@
 # Hi, I'm Mekan 👋
 
-Backend engineer from Turkmenistan 🇹🇲. I build AI agents in Python and make them
-observable.
+I'm a backend engineer from Turkmenistan 🇹🇲. I build AI agents with Python and
+make them observable.
 
-I'm building **[AI-Hub](https://github.com/mekanbaymyradov/AI-Hub)**
-([live](https://ai-hub.techship.fun/)): a live LLM chat backend, run like a
-production service: every request traced, every prompt change scored by evals
-before it ships.
+Currently working on **[AI-Hub](https://github.com/mekanbaymyradov/AI-Hub)**, an
+LLM chat backend where every request is traced and every prompt change is tested
+with evals before it ships.
 
-Open source made me a developer, so I give back to the agent and observability
-tools I use.
+I love open source, and I contribute to the tools I use every day.
 
 ### Projects I contribute to
 
