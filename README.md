@@ -3,7 +3,7 @@
 I'm a backend engineer from Turkmenistan 🇹🇲, focused on AI agents and their
 observability.
 
-Currently working on **[AI-Hub](https://github.com/mekanbaymyradov/ai-hub)**, an
+Currently working on **[ai-hub](https://github.com/mekanbaymyradov/ai-hub)**, an
 LLM chat backend where every request is traced and every prompt change is tested
 with evals before it ships.
 
