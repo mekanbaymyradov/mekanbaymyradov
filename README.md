@@ -11,22 +11,41 @@ before it ships.
 Open source made me a developer, so I give back to the agent and observability
 tools I use.
 
-### Open source contributions
+### Projects I contribute to
 
-<!-- contributions:start -->
-**4 merged · 3 open** across 5 projects
-
-| Project | Pull request | Status |
-|---|---|---|
-| [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) | [fix(sqlalchemy): don't suppress pool connection count updates](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/5246) | ✅ merged |
-| [pydantic/logfire](https://github.com/pydantic/logfire) | [Fall back to OpenTelemetry instrumentors in logfire run](https://github.com/pydantic/logfire/pull/2609) | ✅ merged |
-| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [Remove shut-down Groq models `playai-tts`, `playai-tts-arabic`, `meta-llama/llama-guard-4-12b` and `meta-llama/llama-4-maverick-17b-128e-instruct`](https://github.com/pydantic/pydantic-ai/pull/10306) | ✅ merged |
-| [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) | [Replace www.starlette.io by starlette.dev](https://github.com/Kludex/fastapi-tips/pull/38) | ✅ merged |
-| [pydantic/logfire](https://github.com/pydantic/logfire) | [Update Fleet docs for the new Fleet UI](https://github.com/pydantic/logfire/pull/2845) | 🟡 open |
-| [pydantic/logfire](https://github.com/pydantic/logfire) | [Scrub rejected values in Pydantic validation errors](https://github.com/pydantic/logfire/pull/2825) | 🟡 open |
-| [Kludex/grpclette](https://github.com/Kludex/grpclette) | [Upgrade connectrpc to 0.13](https://github.com/Kludex/grpclette/pull/1) | 🟡 open |
-<!-- contributions:end -->
-
-<sub>Updated daily by a [GitHub Action](.github/workflows/update-readme.yml).</sub>
+| Project | GitHub Stars | My Pull Requests |
+|---------|--------------|------------------|
+| [Pydantic AI][pydantic-ai] | ![GitHub stars][pydantic-ai-stars] | [![merged][pydantic-ai-merged]][pydantic-ai-merged-prs] [![open][pydantic-ai-open]][pydantic-ai-open-prs] |
+| [Logfire][logfire] | ![GitHub stars][logfire-stars] | [![merged][logfire-merged]][logfire-merged-prs] [![open][logfire-open]][logfire-open-prs] |
+| [OpenTelemetry Python Contrib][otel-contrib] | ![GitHub stars][otel-contrib-stars] | [![merged][otel-contrib-merged]][otel-contrib-merged-prs] [![open][otel-contrib-open]][otel-contrib-open-prs] |
+| [FastAPI Tips][fastapi-tips] | ![GitHub stars][fastapi-tips-stars] | [![merged][fastapi-tips-merged]][fastapi-tips-merged-prs] [![open][fastapi-tips-open]][fastapi-tips-open-prs] |
 
 📫 [Telegram](https://t.me/mekanbaymyradov) · [LinkedIn](https://linkedin.com/in/mekanbaymyradov)
+
+[pydantic-ai]: https://github.com/pydantic/pydantic-ai
+[pydantic-ai-stars]: https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social
+[pydantic-ai-merged]: https://img.shields.io/github/issues-search?query=repo%3Apydantic/pydantic-ai%20author%3Amekanbaymyradov%20is%3Apr%20is%3Amerged&label=merged&color=8250df
+[pydantic-ai-merged-prs]: https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr%20author%3Amekanbaymyradov%20is%3Amerged
+[pydantic-ai-open]: https://img.shields.io/github/issues-search?query=repo%3Apydantic/pydantic-ai%20author%3Amekanbaymyradov%20is%3Apr%20is%3Aopen&label=open&color=1a7f37
+[pydantic-ai-open-prs]: https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr%20author%3Amekanbaymyradov%20is%3Aopen
+
+[logfire]: https://github.com/pydantic/logfire
+[logfire-stars]: https://img.shields.io/github/stars/pydantic/logfire?style=social
+[logfire-merged]: https://img.shields.io/github/issues-search?query=repo%3Apydantic/logfire%20author%3Amekanbaymyradov%20is%3Apr%20is%3Amerged&label=merged&color=8250df
+[logfire-merged-prs]: https://github.com/pydantic/logfire/pulls?q=is%3Apr%20author%3Amekanbaymyradov%20is%3Amerged
+[logfire-open]: https://img.shields.io/github/issues-search?query=repo%3Apydantic/logfire%20author%3Amekanbaymyradov%20is%3Apr%20is%3Aopen&label=open&color=1a7f37
+[logfire-open-prs]: https://github.com/pydantic/logfire/pulls?q=is%3Apr%20author%3Amekanbaymyradov%20is%3Aopen
+
+[otel-contrib]: https://github.com/open-telemetry/opentelemetry-python-contrib
+[otel-contrib-stars]: https://img.shields.io/github/stars/open-telemetry/opentelemetry-python-contrib?style=social
+[otel-contrib-merged]: https://img.shields.io/github/issues-search?query=repo%3Aopen-telemetry/opentelemetry-python-contrib%20author%3Amekanbaymyradov%20is%3Apr%20is%3Amerged&label=merged&color=8250df
+[otel-contrib-merged-prs]: https://github.com/open-telemetry/opentelemetry-python-contrib/pulls?q=is%3Apr%20author%3Amekanbaymyradov%20is%3Amerged
+[otel-contrib-open]: https://img.shields.io/github/issues-search?query=repo%3Aopen-telemetry/opentelemetry-python-contrib%20author%3Amekanbaymyradov%20is%3Apr%20is%3Aopen&label=open&color=1a7f37
+[otel-contrib-open-prs]: https://github.com/open-telemetry/opentelemetry-python-contrib/pulls?q=is%3Apr%20author%3Amekanbaymyradov%20is%3Aopen
+
+[fastapi-tips]: https://github.com/Kludex/fastapi-tips
+[fastapi-tips-stars]: https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social
+[fastapi-tips-merged]: https://img.shields.io/github/issues-search?query=repo%3AKludex/fastapi-tips%20author%3Amekanbaymyradov%20is%3Apr%20is%3Amerged&label=merged&color=8250df
+[fastapi-tips-merged-prs]: https://github.com/Kludex/fastapi-tips/pulls?q=is%3Apr%20author%3Amekanbaymyradov%20is%3Amerged
+[fastapi-tips-open]: https://img.shields.io/github/issues-search?query=repo%3AKludex/fastapi-tips%20author%3Amekanbaymyradov%20is%3Apr%20is%3Aopen&label=open&color=1a7f37
+[fastapi-tips-open-prs]: https://github.com/Kludex/fastapi-tips/pulls?q=is%3Apr%20author%3Amekanbaymyradov%20is%3Aopen
