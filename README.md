@@ -18,8 +18,6 @@ Open source made me a developer, and now I'm becoming part of it.
 | [OpenTelemetry Python Contrib][otel-contrib] | ![GitHub stars][otel-contrib-stars] | [![merged][otel-contrib-merged]][otel-contrib-merged-prs] [![open][otel-contrib-open]][otel-contrib-open-prs] |
 | [FastAPI Tips][fastapi-tips] | ![GitHub stars][fastapi-tips-stars] | [![merged][fastapi-tips-merged]][fastapi-tips-merged-prs] [![open][fastapi-tips-open]][fastapi-tips-open-prs] |
 
-📫 [Telegram](https://t.me/mekanbaymyradov) · [LinkedIn](https://linkedin.com/in/mekanbaymyradov)
-
 [pydantic-ai]: https://github.com/pydantic/pydantic-ai
 [pydantic-ai-stars]: https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social
 [pydantic-ai-merged]: https://img.shields.io/github/issues-search?query=repo%3Apydantic/pydantic-ai%20author%3Amekanbaymyradov%20is%3Apr%20is%3Amerged&label=merged&color=8250df
