@@ -7,7 +7,7 @@ Currently working on **[AI-Hub](https://github.com/mekanbaymyradov/AI-Hub)**, an
 LLM chat backend where every request is traced and every prompt change is tested
 with evals before it ships.
 
-I love open source, and I contribute to the tools I use every day.
+Open source made me a developer, and now I'm becoming part of it.
 
 ### Projects I contribute to
 
